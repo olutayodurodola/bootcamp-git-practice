@@ -9,6 +9,7 @@ def reverse(s):
 	'''
 	This function generates the reverse of s. s can be a string or a list. It returns the type given to it
 	'''
+	s[::-1]
 	pass
 
 def intersection(a,b):
@@ -17,9 +18,13 @@ def intersection(a,b):
 	'''
 	pass
 
-def generate(steps):
-	pass
+'ww' is not recognized as an internal or external command,
+operable program or batch file.
 
+
+
+'wq' is not recognized as an internal or external command,
+operable program or batch file.
 def parse_csv(csv_string):
 	'''
 	This function parses a CSV string as a list. The specification demands that the first row of data represents the column names
